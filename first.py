@@ -2,4 +2,5 @@ name = 'Иван'
 age = input
 
 print name
-print age1321
+print 22
+print new
