@@ -2,4 +2,4 @@ name = 'Иван'
 age = input
 
 print name
-print age1
+print age1321
