@@ -1,6 +1,6 @@
 name = 'Иван'
-age = input
+age = 222
 
-print name
-print 22
-print new1
+print (name)
+print (age)
+
