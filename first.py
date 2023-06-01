@@ -3,4 +3,4 @@ age = input
 
 print name
 print 22
-print new
+print new1
