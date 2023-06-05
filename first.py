@@ -1,6 +1,6 @@
 from datetime import datetime
 
-filename = 'input.txt'
+filename = 'input2.txt' 
 with open(filename, 'r') as file:
     with open('timeSheet.txt', 'a') as f:
         lines = file.readlines()
